@@ -1,5 +1,5 @@
 # Shree Ganeshaya Namah 
-![॥ श्री गणेशाय नमः॥](https://github.com/siddhirajpantoji/inventory-app/Ganeshaya.png)
+![॥ श्री गणेशाय नमः॥](https://github.com/siddhirajpantoji/inventory-app/blob/master/Ganeshaya.png)
 # Inventory App 
 This projcect is a simple online inventory management system 
 for small shopkeeers online for any domain.
