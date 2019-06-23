@@ -6,10 +6,10 @@ async function healthCheck(){
         sequelize.authenticate().then(()=>{
             //console.log("Inside Auth True ")
             resolve(true)
-            sequelize.close();
+          //  sequelize.close();
         }).catch(err=>{
             logger.error("Auth failure ",err);
-            sequelize.close();
+            //sequelize.close();
             reject(err);
         })
     })
